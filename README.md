@@ -1,4 +1,4 @@
 # codewars
-Here I upload problem solutions from daily code-wars
+I do atleast one codewars challenge every day, and push it here!
 
 Find my profile here: https://www.codewars.com/users/liamsegura
