@@ -12,6 +12,7 @@
 //     return reversedArray
 // }
 
+
 const reverseArr = arr => arr.reverse()
 
 
