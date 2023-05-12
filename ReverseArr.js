@@ -5,13 +5,14 @@
 //arr [2,4,4] -> [4,4,2]
 
 
-function reverseArr(arr){
+// function reverseArr(arr){
 
-    let reversedArray = arr.reverse()
+//     let reversedArray = arr.reverse()
 
-    return reversedArray
-}
+//     return reversedArray
+// }
 
+const reverseArr = arr => arr.reverse()
 
 
 console.log(reverseArr([1,2]), '[2,1]')
