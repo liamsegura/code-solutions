@@ -17,7 +17,7 @@
 
 
 const squareDigits = num => { 
-    
+
     let arrOfNums = String(num).split('')
     let squaredNums = arrOfNums.map(num => num * num).join('')
     return Number(squaredNums)
@@ -26,3 +26,4 @@ const squareDigits = num => {
 
 console.log(squareDigits(2112), "4114")
 console.log(squareDigits(3212), "9414")
+ 
