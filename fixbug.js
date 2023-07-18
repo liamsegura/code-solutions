@@ -1,0 +1,1 @@
+const main = (v, n) => v + n
